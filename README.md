@@ -1,3 +1,14 @@
+# Socket Server 
+
+## Send event to Client  --> use io
+### io.emit              --> to send every client
+### io.to(socketId).emit --> to send one client
+
+## Take event to Client  --> to send every client
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
