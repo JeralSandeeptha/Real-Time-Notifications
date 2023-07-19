@@ -6,8 +6,9 @@
 
 ## Take event to Client  --> to send every client
 
-
-
+# Client Side                    --> use io
+### send to server               --> socket.emit
+### take event from server       --> socket.on
 
 # Getting Started with Create React App
 
