@@ -6,7 +6,7 @@
 
 ## Take event to Client  --> to send every client
 
-# Client Side                    --> use io
+# Client Side                    --> use socket
 ### send to server               --> socket.emit
 ### take event from server       --> socket.on
 
